@@ -10,7 +10,7 @@
  $cd TamfanFacebook
  $ls
  $chmod +x *
- $chmod -R 775 Lin
+ $chmod -R 775 Lib
  $sh install.sh
  $sh Tamfan.sh
 
